@@ -1,6 +1,6 @@
 
 name = "ke-import-radar"
-main = main = "src/index.ts"
+main = "src/index.ts"
 compatibility_date = "2026-05-15"
 
 [vars]
