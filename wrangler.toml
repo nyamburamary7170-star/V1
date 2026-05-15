@@ -1,0 +1,7 @@
+
+name = "ke-import-radar"
+main = "src/index.js"
+compatibility_date = "2026-05-15"
+
+[vars]
+APP_NAME = "KE Import Radar"
