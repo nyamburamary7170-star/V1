@@ -1,5 +1,5 @@
 
-name = "ke-import-radar"
+name = "ketrend"
 main = "src/index.ts"
 compatibility_date = "2026-05-15"
 
